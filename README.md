@@ -1,9 +1,6 @@
-### Hi there👋, my name is Rubens Montibeller, i'm a .NET Developer in Brazil, With over 5 yers of Software development experience, I've had the opportunity to work with various companies throughout my career. If you're interested in learning more about me, feel free to connect with me on my socials:
-
-
-[![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rubensamjr/)
-[![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rubens.amjr/)
-[![Blog](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rubens.montibeller.prog@gmail.com)
+### Hi there 👋
+My name is Rubens Montibeller, I’m a 28-year-old .NET Developer from Brazil with over 6 years of experience in software development.
+I’m currently based in Blumenau, Santa Catarina.
 
 ### Technologies I'm Currently Using or Have Used in the Past:
 
