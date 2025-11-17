@@ -13,5 +13,14 @@ I’m currently based in Blumenau, Santa Catarina.
  <img align="center" alt="ORACLE" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black">
 </div>
 
+### 📊 Stats
+<div align="center"> <!-- GitHub Stats Card -->
 
+<img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
+
+<!-- Most Used Languages Card -->
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+
+</div>
 
