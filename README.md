@@ -16,11 +16,11 @@ I’m currently based in Blumenau, Santa Catarina.
 ### 📊 Stats
 <div align="center"> <!-- GitHub Stats Card -->
 
-<img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
+<img src="https://github-readme-stats.vercel.app/api?username=RubensAMJr&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
 
 <!-- Most Used Languages Card -->
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RubensAMJr&layout=compact&theme=tokyonight&hide_border=true" height="170" />
 
 </div>
 
