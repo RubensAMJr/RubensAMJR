@@ -13,6 +13,8 @@ I’m currently based in Blumenau, Santa Catarina.
  <img align="center" alt="ORACLE" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black">
 </div>
 
+---
+
 ### 📊 Stats
 <div align="center"> <!-- GitHub Stats Card -->
 
@@ -23,4 +25,13 @@ I’m currently based in Blumenau, Santa Catarina.
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RubensAMJr&layout=compact&theme=tokyonight&hide_border=true" height="170" />
 
 </div>
+
+---
+
+🌍 Find me at
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rubensamjr/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rubens.montibeller.prog@gmail.com)
+
+
 
